@@ -1,4 +1,4 @@
-#🤖 Knight Bot
+##🤖 Knight Bot
 
 Este es un bot de WhatsApp creado con la librería Baileys para la gestión de grupos, que incluye funciones como etiquetar a todos los miembros, silenciar/desactivar silencio y muchas más. Está diseñado para ayudar a los administradores a gestionar grupos de WhatsApp de forma eficiente.
 <div align="center">
